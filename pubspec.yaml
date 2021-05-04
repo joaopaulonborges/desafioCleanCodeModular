@@ -1,0 +1,30 @@
+name: desafio_modular_clean_code
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_modular: ^3.1.1
+  rxdart: ^0.23.0
+  flutter_triple: ^1.0.5+1
+  flutter_bloc: ^3.0.0
+  equatable: ^2.0.0
+  data_connection_checker: ^0.3.4
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_modular_test: ^1.0.1
+  flutter_test:
+    sdk: flutter
+  triple_test: ^0.0.5
+  mockito: ^5.0.7
+  dartz: ^0.10.0-nullsafety.1
+
+flutter:
+  uses-material-design: true
