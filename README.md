@@ -1,6 +1,6 @@
 # desafio_modular_clean_code
 
-A new Flutter project.
+Desafio de clean arc com modular e testes.
 
 ## Getting Started
 
